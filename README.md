@@ -51,8 +51,6 @@ To clean the project, type "make clean".
 Issues and problems with the program:
 
 Issues I had were reading for files and implementing message queues.
-I was able to get something, but it does not involve message queues unfortunately. 
-I figured this would be better than non-running code.
 
 --------------------------------------------------------------------------------------------------------
 
