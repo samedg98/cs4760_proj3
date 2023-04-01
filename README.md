@@ -54,4 +54,4 @@ Issues I had were reading for files and implementing message queues.
 
 Link to version control:
 
-https://github.com/sg-21/cs4760_project3 
+https://github.com/samedg98/project3 
