@@ -1,10 +1,8 @@
 # Project 3
 
 # Samed Ganibegovic
-# Operating Systems CS4760
 
-# Assignment 3: Message Queues and Palindromes
-# Due: March 15th 2021
+# Message Queues and Palindromes
 
 --------------------------------------------------------------------------------------------------------
 
